@@ -1,0 +1,44 @@
+---
+title: "About"
+---
+
+I am an Assistant Teaching Professor in the [Department of Statistics & Data Science](http://www.stat.cmu.edu/) at [Carnegie Mellon University](http://www.cmu.edu/). My research focuses on developing methods at the interface of inference and machine learning, oriented towards problems in statistical genetics and sports analytics. 
+
+I previously received my PhD in Statistics at Carnegie Mellon University under supervision of Professor [Kathryn Roeder](https://kathrynmroeder.github.io/) and [Max G’Sell](https://www.andrew.cmu.edu/user/mgsell/). My [thesis](https://kilthub.cmu.edu/articles/thesis/Selective_inference_approaches_for_augmenting_genetic_association_studies_with_multi-omics_metadata/19669593) work focused on selective inference approaches for augmenting genetic association studies with data-guided hypothesis testing.
+
+I also actively publish research on statistics in sports, and have developed multiple R packages to enable easy access of publicly available data. Additionally, [Rebecca Nugent](http://www.stat.cmu.edu/~rnugent/PUBLIC/), [Sam Ventura](http://www.stat.cmu.edu/people/faculty/sam-ventura), and I co-organize the annual [Carnegie Mellon Sports Analytics Conference](https://www.stat.cmu.edu/cmsac/conference/2022/) which promotes the latest sports analytics research and features a reproducible research competition.
+
+### Research Interests
+
+- Statistics in Sports
+- Statistical Genetics
+- Selective Inference
+- Clustering
+
+### Education
+
+::: {.d-flex .justify-content-between}
+::: {}
+**Carnegie Mellon University**  
+PhD in Statistics  
+Advisors: Kathryn Roeder and Max G'Sell
+:::
+::: {.text-end}
+Pittsburgh, PA  
+Granted May 2022
+:::
+:::
+- Dissertation: *Selective inference approaches for augmenting genetic association studies with multi-omics metadata*
+
+
+::: {.d-flex .justify-content-between}
+::: {}
+**Carnegie Mellon University**  
+BS in Statistics with University Honors
+:::
+::: {.text-end}
+Pittsburgh, PA  
+Granted Dec 2015
+:::
+:::
+

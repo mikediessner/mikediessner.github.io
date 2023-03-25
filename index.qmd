@@ -1,0 +1,101 @@
+## About
+::: {layout-ncol=2}
+![](profile.jpg)
+
+I am a second-year PhD student in Computing at [Newcastle University](https://www.ncl.ac.uk) in the United Kingdom. Within the university, I am part of the [Cloud Computing for Big Data CDT](https://www.ncl.ac.uk/bigdata/) and the [Fluid Dynamics Lab](https://www.experimental-fluids-dynamics.com). \
+\
+My research focuses on computer emulators and optimisation of physical experiments and computer simulations.
+:::
+
+
+## Publications
+
+#### 2023
+
+Joe O’Connor, **Mike Diessner**, Kevin Wilson, Richard D. Whalley, Andrew Wynn, and Sylvain Laizet. "[Optimisation and Analysis of Streamwise-Varying Wall-Normal Blowing in a Turbulent Boundary Layer](https://link.springer.com/article/10.1007/s10494-023-00408-3)," _Flow, Turbulence and Combustion_, 2023.
+
+#### 2022
+
+**Mike Diessner**, Joe O'Connor, Andrew Wynn, Sylvain Laizet, Yu Guan, Kevin Wilson, and Richard D. Whalley. "[Investigating Bayesian optimization for expensive-to-evaluate black box functions: Application in fluid dynamics](https://www.frontiersin.org/articles/10.3389/fams.2022.1076296/full)," _Frontiers in Applied Mathematics and Statistics_, 2022.
+
+Matthew L. Thomas, Gavin Shaddick, David Topping, Karyn Morrissey, Thomas J. Brannan, **Mike Diessner**, Ruth C. E. Bowyer, Stefan Siegert, Hugh Coe, James Evans, Fernando Benitez-Paez, and James V. Zidek. "[A Data Integration Approach to Estimating Personal Exposures to Air Pollution](https://ieeexplore.ieee.org/abstract/document/10020701)," _2022 IEEE International Conference on Big Data (Big Data)_, 2022.
+
+
+## Presentations
+
+#### 2022
+
+**European Drag Reduction and Flow Control Meeting**, "On the development of a Bayesian optimisation framework for turbulent drag reduction," Conservatoire National des Arts et Métiers, Paris, France.
+
+
+## Teaching
+
+I worked as a teaching assistant on the following courses:  
+
+**Computing Foundations of Data Science**  
+Postgraduate-level module teaching the fundamentals of programming in *Python*.  
+
+**Data Management and Exploratory Data Analysis**  
+Postgraduate-level module teaching students all necessary tools to analyse data with *R*.  
+
+**Statistics for Empirical Psychology**  
+Undergraduate-level module teaching fundamental statistics to psychology students (linear regression, mixed-effects model, hypothesis testing, etc.).  
+
+## Education
+
+::: {.d-flex .justify-content-between}
+::: {}
+**PhD in Computing**  
+[Newcastle University](https://www.ncl.ac.uk)  
+Advisors: [Richard D. Whalley](https://www.ncl.ac.uk/engineering/staff/profile/richardwhalley.html) and [Kevin Wilson](https://www.ncl.ac.uk/maths-physics/people/profile/kevinwilson.html)  
+:::
+::: {.text-end}
+Newcastle upon Tyne, United Kingdom  
+June 2021 - Present  
+:::
+:::
+- Investigation of Bayesian optimisation for expensive-to-evaluate black box functions.
+- Application to computer simulations and physical experiments in engineering to find optimal active blowing strategies to maximise drag reduction.
+- Award of full studentship including a stipend, tuition, research costs (equipment, publishing fees, conference fees, etc.), and travel and lodging for national and international conferences (approx. £89,000).  
+\
+
+::: {.d-flex .justify-content-between}
+::: {}
+**PGDip in Computing**  
+[Newcastle University](https://www.ncl.ac.uk)  
+:::
+::: {.text-end}
+Newcastle upon Tyne, United Kingdom  
+September 2020 - May 2021  
+:::
+:::
+\
+
+::: {.d-flex .justify-content-between}
+::: {}
+**MSc in Statistics**  
+[University of Exeter](https://www.exeter.ac.uk)  
+:::
+::: {.text-end}
+Exeter, United Kingdom  
+September 2019 - August 2020  
+:::
+:::
+- Thesis: "*Using Agent-based Modelling to Estimate Personal Exposure to PM2.5 in Devon*".
+- Developed model was later used in the paper "*A Data Integration Approach to Estimating Personal Exposures to Air Pollution*" (Thomas et al., 2022).
+- Awards:
+  - Dean's Commedation: For performance at the top end of the First Class range.
+  - MSc Academic Award: For the best overall performance on a postgraduate Mathematics programme in 2020 (£100).  
+\
+
+::: {.d-flex .justify-content-between}
+::: {}
+**BSc in Economics**  
+[University of Bonn](https://www.uni-bonn.de/en/home?set_language=en)  
+:::
+::: {.text-end}
+Bonn, Germany  
+September 2014 - February 2018  
+:::
+:::
+- Thesis: "*Universal basic income and its effects on the labour market in Germany*".  

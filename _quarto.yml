@@ -1,0 +1,28 @@
+project:
+  type: website
+  resources: static
+
+website:
+  title: "Mike Diessner"
+  site-url: "http://www.stat.cmu.edu/~ryurko/"
+  navbar:
+    right:
+      - icon: envelope
+        href: mailto:m.diessner2@newcastle.ac.uk
+      - icon: github
+        href: https://github.com/mikediessner
+      - icon: mortarboard-fill
+        href: https://scholar.google.com/citations?user=qSIiHM4AAAAJ&hl=en
+      - icon: twitter
+        href: https://twitter.com/mikediessner
+
+format:
+  html:
+    theme: litera
+    toc: true
+    font-family: serif
+
+
+
+editor: visual
+
