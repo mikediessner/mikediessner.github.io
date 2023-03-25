@@ -28,6 +28,17 @@ Matthew L. Thomas, Gavin Shaddick, David Topping, Karyn Morrissey, Thomas J. Bra
 **European Drag Reduction and Flow Control Meeting**, "On the development of a Bayesian optimisation framework for turbulent drag reduction," Conservatoire National des Arts et Métiers, Paris, France.
 
 
+## Software
+
+- `simplelhs`: Simple implementation of Latin Hypercube Sampling to generate space filling designs (*Python*).  
+  Install: [PyPI](https://pypi.org/project/simplelhs/) Source: [GitHub](https://github.com/mikediessner/simplelhs)
+
+- `benchfuncs`: Selection of benchmark functions to test optimisation algorithms (*Python*).  
+  Source: [GitHub](https://github.com/mikediessner/benchfuncs)
+
+- `NUBO`: Bayesian optimisation framework to solve expenisve-to-evaluate black box functions (*Python*). [In development]
+
+  
 ## Teaching
 
 I worked as a teaching assistant on the following courses:  
