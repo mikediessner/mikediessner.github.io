@@ -2,7 +2,7 @@
 ::: {layout-ncol=2}
 ![](profile.jpg)
 
-I am a second-year PhD student in Computing at [Newcastle University](https://www.ncl.ac.uk) in the United Kingdom. Within the university, I am part of the [Cloud Computing for Big Data CDT](https://www.ncl.ac.uk/bigdata/) and the [Fluid Dynamics Lab](https://www.experimental-fluids-dynamics.com). \
+I am a second-year PhD student in Computing at [Newcastle University](https://www.ncl.ac.uk) in the United Kingdom. Within the university, I am part of the [Cloud Computing for Big Data CDT](https://www.ncl.ac.uk/bigdata/) and the [Fluid Dynamics Lab](https://www.experimental-fluid-dynamics.com). \
 \
 My research focuses on computer emulators and optimisation of physical experiments and computer simulations.
 :::
