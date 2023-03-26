@@ -1,4 +1,7 @@
-## About
+---
+from: markdown+emoji
+---
+## :wave: About
 ::: {layout-ncol=2}
 ![](profile.jpg)
 
@@ -8,7 +11,7 @@ My research focuses on **computer emulators** and optimisation of physical exper
 :::
 
 
-## Publications
+## :page_facing_up: Publications
 
 #### 2023
 
@@ -21,14 +24,14 @@ Joe O’Connor, **Mike Diessner**, Kevin Wilson, Richard D. Whalley, Andrew Wynn
 Matthew L. Thomas, Gavin Shaddick, David Topping, Karyn Morrissey, Thomas J. Brannan, **Mike Diessner**, Ruth C. E. Bowyer, Stefan Siegert, Hugh Coe, James Evans, Fernando Benitez-Paez, and James V. Zidek. "[A Data Integration Approach to Estimating Personal Exposures to Air Pollution](https://ieeexplore.ieee.org/abstract/document/10020701)," _2022 IEEE International Conference on Big Data (Big Data)_, 2022.
 
 
-## Presentations
+## :earth_africa: Presentations
 
 #### 2022
 
 **European Drag Reduction and Flow Control Meeting**, "*On the development of a Bayesian optimisation framework for turbulent drag reduction,*" Conservatoire National des Arts et Métiers, Paris, France.
 
 
-## Software
+## :computer: Software
 
 - `simplelhs`: Simple implementation of Latin hypercube sampling to generate space filling designs (*Python*).  
   Install: [PyPI](https://pypi.org/project/simplelhs/) Source: [GitHub](https://github.com/mikediessner/simplelhs)
@@ -39,7 +42,7 @@ Matthew L. Thomas, Gavin Shaddick, David Topping, Karyn Morrissey, Thomas J. Bra
 - `NUBO`: Bayesian optimisation framework to solve expenisve-to-evaluate black box functions (*Python*). [In development]
 
   
-## Teaching
+## :bulb: Teaching
 
 I worked as a teaching assistant on the following courses:  
 
@@ -52,7 +55,7 @@ Postgraduate-level module teaching students all necessary tools to analyse data 
 **Statistics for Empirical Psychology**  
 Undergraduate-level module teaching the fundamentals of statistics to psychology students (linear regression, mixed-effects model, hypothesis testing, etc.).  
 
-## Education
+## :mortar_board: Education
 
 ::: {.d-flex .justify-content-between}
 ::: {}

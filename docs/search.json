@@ -17,35 +17,35 @@
     "objectID": "index.html#publications",
     "href": "index.html#publications",
     "title": "Mike Diessner",
-    "section": "Publications",
-    "text": "Publications\n\n2023\nJoe O’Connor, Mike Diessner, Kevin Wilson, Richard D. Whalley, Andrew Wynn, and Sylvain Laizet. “Optimisation and Analysis of Streamwise-Varying Wall-Normal Blowing in a Turbulent Boundary Layer,” Flow, Turbulence and Combustion, 2023.\n\n\n2022\nMike Diessner, Joe O’Connor, Andrew Wynn, Sylvain Laizet, Yu Guan, Kevin Wilson, and Richard D. Whalley. “Investigating Bayesian optimization for expensive-to-evaluate black box functions: Application in fluid dynamics,” Frontiers in Applied Mathematics and Statistics, 2022.\nMatthew L. Thomas, Gavin Shaddick, David Topping, Karyn Morrissey, Thomas J. Brannan, Mike Diessner, Ruth C. E. Bowyer, Stefan Siegert, Hugh Coe, James Evans, Fernando Benitez-Paez, and James V. Zidek. “A Data Integration Approach to Estimating Personal Exposures to Air Pollution,” 2022 IEEE International Conference on Big Data (Big Data), 2022."
+    "section": "📄 Publications",
+    "text": "📄 Publications\n\n2023\nJoe O’Connor, Mike Diessner, Kevin Wilson, Richard D. Whalley, Andrew Wynn, and Sylvain Laizet. “Optimisation and Analysis of Streamwise-Varying Wall-Normal Blowing in a Turbulent Boundary Layer,” Flow, Turbulence and Combustion, 2023.\n\n\n2022\nMike Diessner, Joe O’Connor, Andrew Wynn, Sylvain Laizet, Yu Guan, Kevin Wilson, and Richard D. Whalley. “Investigating Bayesian optimization for expensive-to-evaluate black box functions: Application in fluid dynamics,” Frontiers in Applied Mathematics and Statistics, 2022.\nMatthew L. Thomas, Gavin Shaddick, David Topping, Karyn Morrissey, Thomas J. Brannan, Mike Diessner, Ruth C. E. Bowyer, Stefan Siegert, Hugh Coe, James Evans, Fernando Benitez-Paez, and James V. Zidek. “A Data Integration Approach to Estimating Personal Exposures to Air Pollution,” 2022 IEEE International Conference on Big Data (Big Data), 2022."
   },
   {
     "objectID": "index.html#presentations",
     "href": "index.html#presentations",
     "title": "Mike Diessner",
-    "section": "Presentations",
-    "text": "Presentations\n\n2022\nEuropean Drag Reduction and Flow Control Meeting, “On the development of a Bayesian optimisation framework for turbulent drag reduction,” Conservatoire National des Arts et Métiers, Paris, France."
+    "section": "🌍 Presentations",
+    "text": "🌍 Presentations\n\n2022\nEuropean Drag Reduction and Flow Control Meeting, “On the development of a Bayesian optimisation framework for turbulent drag reduction,” Conservatoire National des Arts et Métiers, Paris, France."
   },
   {
     "objectID": "index.html#software",
     "href": "index.html#software",
     "title": "Mike Diessner",
-    "section": "Software",
-    "text": "Software\n\nsimplelhs: Simple implementation of Latin hypercube sampling to generate space filling designs (Python).\nInstall: PyPI Source: GitHub\nbenchfuncs: Selection of benchmark functions to test optimisation algorithms (Python).\nSource: GitHub\nNUBO: Bayesian optimisation framework to solve expenisve-to-evaluate black box functions (Python). [In development]"
+    "section": "💻 Software",
+    "text": "💻 Software\n\nsimplelhs: Simple implementation of Latin hypercube sampling to generate space filling designs (Python).\nInstall: PyPI Source: GitHub\nbenchfuncs: Selection of benchmark functions to test optimisation algorithms (Python).\nSource: GitHub\nNUBO: Bayesian optimisation framework to solve expenisve-to-evaluate black box functions (Python). [In development]"
   },
   {
     "objectID": "index.html#teaching",
     "href": "index.html#teaching",
     "title": "Mike Diessner",
-    "section": "Teaching",
-    "text": "Teaching\nI worked as a teaching assistant on the following courses:\nComputing Foundations of Data Science\nPostgraduate-level module teaching the fundamentals of programming in Python.\nData Management and Exploratory Data Analysis\nPostgraduate-level module teaching students all necessary tools to analyse data with R.\nStatistics for Empirical Psychology\nUndergraduate-level module teaching the fundamentals of statistics to psychology students (linear regression, mixed-effects model, hypothesis testing, etc.)."
+    "section": "💡 Teaching",
+    "text": "💡 Teaching\nI worked as a teaching assistant on the following courses:\nComputing Foundations of Data Science\nPostgraduate-level module teaching the fundamentals of programming in Python.\nData Management and Exploratory Data Analysis\nPostgraduate-level module teaching students all necessary tools to analyse data with R.\nStatistics for Empirical Psychology\nUndergraduate-level module teaching the fundamentals of statistics to psychology students (linear regression, mixed-effects model, hypothesis testing, etc.)."
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
     "title": "Mike Diessner",
-    "section": "Education",
-    "text": "Education\n\n\nPhD in Computing\nNewcastle University\nAdvisors: Richard D. Whalley and Kevin Wilson\n\n\nNewcastle upon Tyne, United Kingdom\nJune 2021 - August 2024\n\n\n\nInvestigation of Bayesian optimisation for expensive-to-evaluate black box functions.\nApplication to computer simulations and physical experiments in engineering to find optimal active blowing strategies to maximise drag reduction.\nAward of a full studentship including stipend, tuition, research costs (equipment, publishing fees, conference fees, etc.), and travel and lodging costs for national and international conferences (approx. £89,000).\n\n\n\n\n\nPGDip in Computing\nNewcastle University\n\n\nNewcastle upon Tyne, United Kingdom\nSeptember 2020 - May 2021\n\n\n\n\n\n\nMSc in Statistics\nUniversity of Exeter\n\n\nExeter, United Kingdom\nSeptember 2019 - August 2020\n\n\n\nThesis: “Using Agent-based Modelling to Estimate Personal Exposure to PM2.5 in Devon”.\nDeveloped model was later used in the paper “A Data Integration Approach to Estimating Personal Exposures to Air Pollution”.\nAwards:\n\nDean’s Commedation: For performance at the top end of the First Class range.\nMSc Academic Award: For the best overall performance on a postgraduate Mathematics programme in 2020 (£100).\n\n\n\n\n\n\nBSc in Economics\nUniversity of Bonn\n\n\nBonn, Germany\nSeptember 2014 - February 2018\n\n\n\nThesis: “Universal basic income and its effects on the labour market in Germany”."
+    "section": "🎓 Education",
+    "text": "🎓 Education\n\n\nPhD in Computing\nNewcastle University\nAdvisors: Richard D. Whalley and Kevin Wilson\n\n\nNewcastle upon Tyne, United Kingdom\nJune 2021 - August 2024\n\n\n\nInvestigation of Bayesian optimisation for expensive-to-evaluate black box functions.\nApplication to computer simulations and physical experiments in engineering to find optimal active blowing strategies to maximise drag reduction.\nAward of a full studentship including stipend, tuition, research costs (equipment, publishing fees, conference fees, etc.), and travel and lodging costs for national and international conferences (approx. £89,000).\n\n\n\n\n\nPGDip in Computing\nNewcastle University\n\n\nNewcastle upon Tyne, United Kingdom\nSeptember 2020 - May 2021\n\n\n\n\n\n\nMSc in Statistics\nUniversity of Exeter\n\n\nExeter, United Kingdom\nSeptember 2019 - August 2020\n\n\n\nThesis: “Using Agent-based Modelling to Estimate Personal Exposure to PM2.5 in Devon”.\nDeveloped model was later used in the paper “A Data Integration Approach to Estimating Personal Exposures to Air Pollution”.\nAwards:\n\nDean’s Commedation: For performance at the top end of the First Class range.\nMSc Academic Award: For the best overall performance on a postgraduate Mathematics programme in 2020 (£100).\n\n\n\n\n\n\nBSc in Economics\nUniversity of Bonn\n\n\nBonn, Germany\nSeptember 2014 - February 2018\n\n\n\nThesis: “Universal basic income and its effects on the labour market in Germany”."
   }
 ]
