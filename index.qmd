@@ -4,7 +4,7 @@
 
 I am a second-year PhD student in Computing at [Newcastle University](https://www.ncl.ac.uk) in the United Kingdom. Within the university, I am part of the [Cloud Computing for Big Data CDT](https://www.ncl.ac.uk/bigdata/) and the [Fluid Dynamics Lab](https://www.experimental-fluid-dynamics.com). \
 \
-My research focuses on computer emulators and optimisation of physical experiments and computer simulations.
+My research focuses on **computer emulators** and optimisation of physical experiments and computer simulations. I am also developing `NUBO`, a transparent **Bayesian optimisation** package in Python, with the aim of making the optimisation of expensive-to-evaluate black box functions accessible to researcher from all disciplines. An open-source version will be available in early April 2023.
 :::
 
 
@@ -25,12 +25,12 @@ Matthew L. Thomas, Gavin Shaddick, David Topping, Karyn Morrissey, Thomas J. Bra
 
 #### 2022
 
-**European Drag Reduction and Flow Control Meeting**, "On the development of a Bayesian optimisation framework for turbulent drag reduction," Conservatoire National des Arts et Métiers, Paris, France.
+**European Drag Reduction and Flow Control Meeting**, "*On the development of a Bayesian optimisation framework for turbulent drag reduction,*" Conservatoire National des Arts et Métiers, Paris, France.
 
 
 ## Software
 
-- `simplelhs`: Simple implementation of Latin Hypercube Sampling to generate space filling designs (*Python*).  
+- `simplelhs`: Simple implementation of Latin hypercube sampling to generate space filling designs (*Python*).  
   Install: [PyPI](https://pypi.org/project/simplelhs/) Source: [GitHub](https://github.com/mikediessner/simplelhs)
 
 - `benchfuncs`: Selection of benchmark functions to test optimisation algorithms (*Python*).  
@@ -50,7 +50,7 @@ Postgraduate-level module teaching the fundamentals of programming in *Python*.
 Postgraduate-level module teaching students all necessary tools to analyse data with *R*.  
 
 **Statistics for Empirical Psychology**  
-Undergraduate-level module teaching fundamental statistics to psychology students (linear regression, mixed-effects model, hypothesis testing, etc.).  
+Undergraduate-level module teaching the fundamentals of statistics to psychology students (linear regression, mixed-effects model, hypothesis testing, etc.).  
 
 ## Education
 
@@ -62,12 +62,12 @@ Advisors: [Richard D. Whalley](https://www.ncl.ac.uk/engineering/staff/profile/r
 :::
 ::: {.text-end}
 Newcastle upon Tyne, United Kingdom  
-June 2021 - Present  
+June 2021 - August 2024  
 :::
 :::
 - Investigation of Bayesian optimisation for expensive-to-evaluate black box functions.
 - Application to computer simulations and physical experiments in engineering to find optimal active blowing strategies to maximise drag reduction.
-- Award of full studentship including a stipend, tuition, research costs (equipment, publishing fees, conference fees, etc.), and travel and lodging for national and international conferences (approx. £89,000).  
+- Award of a full studentship including stipend, tuition, research costs (equipment, publishing fees, conference fees, etc.), and travel and lodging costs for national and international conferences (approx. £89,000).  
 \
 
 ::: {.d-flex .justify-content-between}
@@ -93,7 +93,7 @@ September 2019 - August 2020
 :::
 :::
 - Thesis: "*Using Agent-based Modelling to Estimate Personal Exposure to PM2.5 in Devon*".
-- Developed model was later used in the paper "*A Data Integration Approach to Estimating Personal Exposures to Air Pollution*" (Thomas et al., 2022).
+- Developed model was later used in the paper "[A Data Integration Approach to Estimating Personal Exposures to Air Pollution](https://ieeexplore.ieee.org/abstract/document/10020701)".
 - Awards:
   - Dean's Commedation: For performance at the top end of the First Class range.
   - MSc Academic Award: For the best overall performance on a postgraduate Mathematics programme in 2020 (£100).  

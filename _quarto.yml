@@ -4,10 +4,11 @@ project:
 
 website:
   title: "Mike Diessner"
-  site-url: "http://www.stat.cmu.edu/~ryurko/"
+  site-url: "https://mikediessner.github.io"
+  favicon: favicon.png
+  twitter-card: true
   navbar:
     right:
-
       - icon: github
         href: https://github.com/mikediessner
       - icon: mortarboard-fill
@@ -23,9 +24,6 @@ format:
   html:
     theme: litera
     toc: true
-    font-family: serif
-
-
 
 editor: visual
 
