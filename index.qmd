@@ -93,7 +93,7 @@ September 2019 - August 2020
 :::
 :::
 - Thesis: "*Using Agent-based Modelling to Estimate Personal Exposure to PM2.5 in Devon*".
-- Developed model was later used in the paper "[A Data Integration Approach to Estimating Personal Exposures to Air Pollution](https://ieeexplore.ieee.org/abstract/document/10020701)".
+- Developed model was later used in the paper "[*A Data Integration Approach to Estimating Personal Exposures to Air Pollution*](https://ieeexplore.ieee.org/abstract/document/10020701)".
 - Awards:
   - Dean's Commedation: For performance at the top end of the First Class range.
   - MSc Academic Award: For the best overall performance on a postgraduate Mathematics programme in 2020 (£100).  
