@@ -5,7 +5,7 @@ from: markdown+emoji
 ::: {layout-ncol=2}
 ![](profile.jpg)
 
-I am a second-year PhD student in Computing at [Newcastle University](https://www.ncl.ac.uk) in the United Kingdom. Within the university, I am part of the [Cloud Computing for Big Data CDT](https://www.ncl.ac.uk/bigdata/) and the [Fluid Dynamics Lab](https://www.experimental-fluid-dynamics.com). \
+I am a second-year PhD student at the School of Computing at [Newcastle University](https://www.ncl.ac.uk) in the United Kingdom. Within the university, I am part of the [Cloud Computing for Big Data CDT](https://www.ncl.ac.uk/bigdata/) and the [Fluid Dynamics Lab](https://www.experimental-fluid-dynamics.com). \
 \
 My research focuses on **computer emulators** and the optimisation of physical experiments and computer simulations. I am also developing `NUBO`, a transparent **Bayesian optimisation** package in Python, with the aim of making the optimisation of expensive-to-evaluate black box functions accessible to researchers from all disciplines. An open-source version will be available in early April 2023.
 :::
