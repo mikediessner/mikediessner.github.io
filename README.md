@@ -6,14 +6,14 @@
 
 The website is rendered with Quarto. You can download Quarto from [here](https://quarto.org/docs/get-started/).
 
-## Step 3: Update ``index.qmd``
-
-## Step 4: Update ``_quarto.yml``
+## Step 3: Update ``_quarto.yml``
 
 In the website section, update title with your name, i.e. "FirstName SirName".
 I chose to display the navigation bar (social media links, etc.) on the top
 right and let it feature links to my GitHub, Google Scholar, Twitter, LinkedIn, 
 and e-mail.
+
+## Step 4: Update ``index.qmd``
 
 ## Step 5: Upload profile picture and favicon
 
