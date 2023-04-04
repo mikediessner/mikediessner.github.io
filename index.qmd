@@ -7,7 +7,7 @@ from: markdown+emoji
 
 I am a second-year PhD student at the School of Computing at [Newcastle University](https://www.ncl.ac.uk) in the United Kingdom. Within the university, I am part of the [Cloud Computing for Big Data CDT](https://www.ncl.ac.uk/bigdata/) and the [Fluid Dynamics Lab](https://www.experimental-fluid-dynamics.com). \
 \
-My research focuses on **computer emulators** and the optimisation of physical experiments and computer simulations. I am also developing `NUBO`, a transparent **Bayesian optimisation** package in Python, with the aim of making the optimisation of expensive-to-evaluate black box functions accessible to researchers from all disciplines. An open-source version will be available in early April 2023.
+My research focuses on **computer emulators** and the optimisation of physical experiments and computer simulations. I am also developing `NUBO`, a transparent **Bayesian optimisation** package in Python, with the aim of making the optimisation of expensive-to-evaluate black box functions accessible to researchers from all disciplines. An open-source version is available [here](https://mikediessner.github.io/nubo).
 :::
 
 
@@ -33,13 +33,14 @@ Matthew L. Thomas, Gavin Shaddick, David Topping, Karyn Morrissey, Thomas J. Bra
 
 ## :computer: Software
 
+- `NUBO`: Bayesian optimisation framework to solve expenisve-to-evaluate black box functions (*Python*).
+  Website: [NUBO](https://mikediessner.github.io/nubo) Source: [GitHub](https://github.com/mikediessner/nubo)
+
 - `simplelhs`: Simple implementation of Latin hypercube sampling to generate space filling designs (*Python*).  
   Install: [PyPI](https://pypi.org/project/simplelhs/) Source: [GitHub](https://github.com/mikediessner/simplelhs)
 
 - `benchfuncs`: Selection of benchmark functions to test optimisation algorithms (*Python*).  
   Source: [GitHub](https://github.com/mikediessner/benchfuncs)
-
-- `NUBO`: Bayesian optimisation framework to solve expenisve-to-evaluate black box functions (*Python*). [In development]
 
   
 ## :bulb: Teaching

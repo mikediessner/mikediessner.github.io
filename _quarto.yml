@@ -4,7 +4,6 @@ project:
 
 website:
   title: "Mike Diessner"
-  site-url: "https://mikediessner.github.io"
   favicon: favicon.png
   twitter-card: true
   navbar:
