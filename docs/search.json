@@ -32,7 +32,7 @@
     "href": "index.html#software",
     "title": "Mike Diessner",
     "section": "💻 Software",
-    "text": "💻 Software\n\nNUBO: Bayesian optimisation framework for solving expenisve-to-evaluate black box functions (Python).\nWebsite: NUBO Source: GitHub\nsimplelhs: Simple implementation of Latin hypercube sampling to generate space filling designs (Python).\nInstall: PyPI Source: GitHub\nbenchfuncs: Selection of benchmark functions to test optimisation algorithms (Python).\nSource: GitHub"
+    "text": "💻 Software\n\nNUBO: Bayesian optimisation framework for solving expenisve-to-evaluate black box functions (Python).\nWebsite: NUBO Install: PyPI Source: GitHub \nsimplelhs: Simple implementation of Latin hypercube sampling to generate space filling designs (Python).\nInstall: PyPI Source: GitHub \nbenchfuncs: Selection of benchmark functions to test optimisation algorithms (Python).\nSource: GitHub"
   },
   {
     "objectID": "index.html#teaching",
