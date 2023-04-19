@@ -34,10 +34,10 @@ Matthew L. Thomas, Gavin Shaddick, David Topping, Karyn Morrissey, Thomas J. Bra
 ## :computer: Software
 
 - `NUBO`: Bayesian optimisation framework for solving expenisve-to-evaluate black box functions (*Python*).  
-  Website: [NUBO](https://mikediessner.github.io/nubo) Source: [GitHub](https://github.com/mikediessner/nubo)
+  Website: [NUBO](https://mikediessner.github.io/nubo) Install: [PyPI](https://pypi.org/project/nubopy/) Source: [GitHub](https://github.com/mikediessner/nubo) [![Downloads](https://static.pepy.tech/personalized-badge/nubopy?period=total&units=none&left_color=grey&right_color=blue&left_text=Downloads)](https://pepy.tech/project/nubopy)
 
 - `simplelhs`: Simple implementation of Latin hypercube sampling to generate space filling designs (*Python*).  
-  Install: [PyPI](https://pypi.org/project/simplelhs/) Source: [GitHub](https://github.com/mikediessner/simplelhs)
+  Install: [PyPI](https://pypi.org/project/simplelhs/) Source: [GitHub](https://github.com/mikediessner/simplelhs) [![Downloads](https://static.pepy.tech/personalized-badge/simplelhs?period=total&units=none&left_color=black&right_color=blue&left_text=Downloads)](https://pepy.tech/project/simplelhs)
 
 - `benchfuncs`: Selection of benchmark functions to test optimisation algorithms (*Python*).  
   Source: [GitHub](https://github.com/mikediessner/benchfuncs)
