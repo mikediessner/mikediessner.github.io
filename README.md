@@ -1,5 +1,18 @@
 # Tutorial: Create a personal website with Quarto
 
+## Repository structure
+- ``/docs``: Includes website rendered with Quarto.
+- ``.gitignore``: Files that will be ignored when pushing with Git.
+- ``.nojekyll``: Empty file indicating GitHub Pages not to use Jekyll to
+generate website.
+- ``README.md``: Readme file you are currently reading.
+- ``_quarto.yml``: Quarto config file providing website options and defaults for
+rendering the HTML documents.
+- ``favicon.png``: Image for the favicon that should be used (small image in
+front of website name in browser tabs; also used for bookmarks).
+- ``index.qmd``: Quarto Markdown file containing the website content.
+- ``profile.jpg``: Profile picture displayed on side.
+
 ## Step 1: Fork and rename this GitHub repository
 
 Fork this GitHub repository and rename your repository to
@@ -60,4 +73,4 @@ In your GitHub repository, go to Settings > Pages and make sure that under
 'Branch' ``main`` and ``/docs`` are selected. After you saved your changes the
 website sould appear under 'https://YourUsername.github.io'. 
 
-Enjoy your new website! :tada:.
+Enjoy your new website! :tada:
