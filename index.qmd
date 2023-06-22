@@ -5,9 +5,9 @@ from: markdown+emoji
 ::: {layout-ncol=2}
 ![](profile.jpg)
 
-I am a second-year PhD student at the School of Computing at [Newcastle University](https://www.ncl.ac.uk) in the United Kingdom. Within the university, I am part of the [Cloud Computing for Big Data CDT](https://www.ncl.ac.uk/bigdata/) and the [Fluid Dynamics Lab](https://www.experimental-fluid-dynamics.com). \
+I am a third-year PhD student at the School of Computing at [Newcastle University](https://www.ncl.ac.uk) in the United Kingdom. Within the university, I am part of the [Cloud Computing for Big Data CDT](https://www.ncl.ac.uk/bigdata/) and the [Fluid Dynamics Lab](https://www.experimental-fluid-dynamics.com). \
 \
-My research focuses on **computer emulators** and the optimisation of physical experiments and computer simulations. I am also developing `NUBO`, a transparent **Bayesian optimisation** package in Python, with the aim of making the optimisation of expensive-to-evaluate black box functions accessible to researchers from all disciplines. An open-source version is available [here](https://mikediessner.github.io/nubo).
+My research focuses on **computer emulators** and the optimisation of physical experiments and computer simulators. I am also developing `NUBO`, a transparent **Bayesian optimisation** package in Python, with the aim of making the optimisation of expensive-to-evaluate black-box functions accessible to researchers from all disciplines. An open-source version is available [here](https://mikediessner.github.io/nubo).
 :::
 
 
@@ -28,6 +28,10 @@ Matthew L. Thomas, Gavin Shaddick, David Topping, Karyn Morrissey, Thomas J. Bra
 
 ## :earth_africa: Presentations
 
+#### 2023
+
+**Open Research Awards 2023**, "*NUBO: An Open-Source AI Framework for Optimisation,*" Newcastle University, Newcastle upon Tyne, United Kingdom.
+
 #### 2022
 
 **European Drag Reduction and Flow Control Meeting**, "*On the development of a Bayesian optimisation framework for turbulent drag reduction,*" Conservatoire National des Arts et Métiers, Paris, France.
@@ -35,7 +39,7 @@ Matthew L. Thomas, Gavin Shaddick, David Topping, Karyn Morrissey, Thomas J. Bra
 
 ## :computer: Software
 
-- `NUBO`: Bayesian optimisation framework for solving expenisve-to-evaluate black box functions (*Python*).  
+- `NUBO`: Bayesian optimisation framework for solving expenisve-to-evaluate black-box functions (*Python*).  
   [![Downloads](https://static.pepy.tech/personalized-badge/nubopy?period=total&units=none&left_color=grey&right_color=blue&left_text=Downloads&)](https://pepy.tech/project/nubopy) &nbsp;&nbsp; Website: [NUBO](https://mikediessner.github.io/nubo) &nbsp;&nbsp; Install: [PyPI](https://pypi.org/project/nubopy/) &nbsp;&nbsp; Source: [GitHub](https://github.com/mikediessner/nubo) 
 
 - `simplelhs`: Simple implementation of Latin hypercube sampling to generate space filling designs (*Python*).  
@@ -49,14 +53,12 @@ Matthew L. Thomas, Gavin Shaddick, David Topping, Karyn Morrissey, Thomas J. Bra
 
 I worked as a teaching assistant on the following courses:  
 
-**Computing Foundations of Data Science**  
-Postgraduate-level module teaching the fundamentals of programming in *Python*.  
+ - **Computing Foundations of Data Science**: Postgraduate-level module teaching the fundamentals of programming in *Python*.  
 
-**Data Management and Exploratory Data Analysis**  
-Postgraduate-level module teaching students all necessary tools to analyse data with *R*.  
+ - **Data Management and Exploratory Data Analysis**: Postgraduate-level module teaching students all necessary tools to analyse data with *R*.  
 
-**Statistics for Empirical Psychology**  
-Undergraduate-level module teaching the fundamentals of statistics to psychology students (linear regression, mixed-effects model, hypothesis testing, etc.).  
+ - **Statistics for Empirical Psychology**: Undergraduate-level module teaching the fundamentals of statistics to psychology students (linear regression, mixed-effects model, hypothesis testing, etc.).  
+
 
 ## :mortar_board: Education
 
@@ -71,9 +73,8 @@ Newcastle upon Tyne, United Kingdom
 June 2021 - August 2024  
 :::
 :::
-- Investigation of Bayesian optimisation for expensive-to-evaluate black box functions.
-- Application to computer simulations and physical experiments in engineering to find optimal active blowing strategies to maximise drag reduction.
-- Award of a full studentship including stipend, tuition, research costs (equipment, publishing fees, conference fees, etc.), and travel and lodging costs for national and international conferences (approx. £89,000).  
+- Investigation of Bayesian optimisation for expensive-to-evaluate black-box functions.
+- Application to computer simulators and physical experiments in engineering to find optimal active blowing strategies to maximise drag reduction. 
 \
 
 ::: {.d-flex .justify-content-between}
@@ -100,9 +101,6 @@ September 2019 - August 2020
 :::
 - Thesis: "*Using Agent-based Modelling to Estimate Personal Exposure to PM2.5 in Devon*".
 - Developed model was later used in the paper "[*A Data Integration Approach to Estimating Personal Exposures to Air Pollution*](https://ieeexplore.ieee.org/abstract/document/10020701)".
-- Awards:
-  - Dean's Commedation: For performance at the top end of the First Class range.
-  - MSc Academic Award: For the best overall performance on a postgraduate Mathematics programme in 2020 (£100).  
 \
 
 ::: {.d-flex .justify-content-between}
@@ -116,3 +114,14 @@ September 2014 - February 2018
 :::
 :::
 - Thesis: "*Universal basic income and its effects on the labour market in Germany*".  
+
+
+## :trophy: Awards
+
+- **Third Place at the Open Research Awards 2023** for making research more transparent, accessible and reproducible awarded by Newcastle University (£100).
+
+- **Full Four-Year Studentship** to attend the Cloud Computing for Big Data Center for Doctoral Training awarded by the Engineering and Physical Sciences Research Council (approx. £89,000).
+
+- **MSc Academic Award** for the best overall performance on a postgraduate Mathematics programme in 2020 awarded by the University of Exeter (£100).
+
+- **Dean's Commendation** for the performance at the top end of the First Class range awarded by the University of Exeter.

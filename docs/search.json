@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "Mike Diessner",
     "section": "",
-    "text": "I am a second-year PhD student at the School of Computing at Newcastle University in the United Kingdom. Within the university, I am part of the Cloud Computing for Big Data CDT and the Fluid Dynamics Lab.\n\nMy research focuses on computer emulators and the optimisation of physical experiments and computer simulations. I am also developing NUBO, a transparent Bayesian optimisation package in Python, with the aim of making the optimisation of expensive-to-evaluate black box functions accessible to researchers from all disciplines. An open-source version is available here."
+    "text": "I am a third-year PhD student at the School of Computing at Newcastle University in the United Kingdom. Within the university, I am part of the Cloud Computing for Big Data CDT and the Fluid Dynamics Lab.\n\nMy research focuses on computer emulators and the optimisation of physical experiments and computer simulators. I am also developing NUBO, a transparent Bayesian optimisation package in Python, with the aim of making the optimisation of expensive-to-evaluate black-box functions accessible to researchers from all disciplines. An open-source version is available here."
   },
   {
     "objectID": "index.html#about",
     "href": "index.html#about",
     "title": "Mike Diessner",
     "section": "",
-    "text": "I am a second-year PhD student at the School of Computing at Newcastle University in the United Kingdom. Within the university, I am part of the Cloud Computing for Big Data CDT and the Fluid Dynamics Lab.\n\nMy research focuses on computer emulators and the optimisation of physical experiments and computer simulations. I am also developing NUBO, a transparent Bayesian optimisation package in Python, with the aim of making the optimisation of expensive-to-evaluate black box functions accessible to researchers from all disciplines. An open-source version is available here."
+    "text": "I am a third-year PhD student at the School of Computing at Newcastle University in the United Kingdom. Within the university, I am part of the Cloud Computing for Big Data CDT and the Fluid Dynamics Lab.\n\nMy research focuses on computer emulators and the optimisation of physical experiments and computer simulators. I am also developing NUBO, a transparent Bayesian optimisation package in Python, with the aim of making the optimisation of expensive-to-evaluate black-box functions accessible to researchers from all disciplines. An open-source version is available here."
   },
   {
     "objectID": "index.html#publications",
@@ -25,27 +25,34 @@
     "href": "index.html#presentations",
     "title": "Mike Diessner",
     "section": "🌍 Presentations",
-    "text": "🌍 Presentations\n\n2022\nEuropean Drag Reduction and Flow Control Meeting, “On the development of a Bayesian optimisation framework for turbulent drag reduction,” Conservatoire National des Arts et Métiers, Paris, France."
+    "text": "🌍 Presentations\n\n2023\nOpen Research Awards 2023, “NUBO: An Open-Source AI Framework for Optimisation,” Newcastle University, Newcastle upon Tyne, United Kingdom.\n\n\n2022\nEuropean Drag Reduction and Flow Control Meeting, “On the development of a Bayesian optimisation framework for turbulent drag reduction,” Conservatoire National des Arts et Métiers, Paris, France."
   },
   {
     "objectID": "index.html#software",
     "href": "index.html#software",
     "title": "Mike Diessner",
     "section": "💻 Software",
-    "text": "💻 Software\n\nNUBO: Bayesian optimisation framework for solving expenisve-to-evaluate black box functions (Python).\n    Website: NUBO    Install: PyPI    Source: GitHub\nsimplelhs: Simple implementation of Latin hypercube sampling to generate space filling designs (Python).\n    Install: PyPI    Source: GitHub\nbenchfuncs: Selection of benchmark functions to test optimisation algorithms (Python).\nSource: GitHub"
+    "text": "💻 Software\n\nNUBO: Bayesian optimisation framework for solving expenisve-to-evaluate black-box functions (Python).\n    Website: NUBO    Install: PyPI    Source: GitHub\nsimplelhs: Simple implementation of Latin hypercube sampling to generate space filling designs (Python).\n    Install: PyPI    Source: GitHub\nbenchfuncs: Selection of benchmark functions to test optimisation algorithms (Python).\nSource: GitHub"
   },
   {
     "objectID": "index.html#teaching",
     "href": "index.html#teaching",
     "title": "Mike Diessner",
     "section": "💡 Teaching",
-    "text": "💡 Teaching\nI worked as a teaching assistant on the following courses:\nComputing Foundations of Data Science\nPostgraduate-level module teaching the fundamentals of programming in Python.\nData Management and Exploratory Data Analysis\nPostgraduate-level module teaching students all necessary tools to analyse data with R.\nStatistics for Empirical Psychology\nUndergraduate-level module teaching the fundamentals of statistics to psychology students (linear regression, mixed-effects model, hypothesis testing, etc.)."
+    "text": "💡 Teaching\nI worked as a teaching assistant on the following courses:\n\nComputing Foundations of Data Science: Postgraduate-level module teaching the fundamentals of programming in Python.\nData Management and Exploratory Data Analysis: Postgraduate-level module teaching students all necessary tools to analyse data with R.\nStatistics for Empirical Psychology: Undergraduate-level module teaching the fundamentals of statistics to psychology students (linear regression, mixed-effects model, hypothesis testing, etc.)."
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
     "title": "Mike Diessner",
     "section": "🎓 Education",
-    "text": "🎓 Education\n\n\nPhD in Computing\nNewcastle University\nAdvisors: Richard D. Whalley and Kevin Wilson\n\n\nNewcastle upon Tyne, United Kingdom\nJune 2021 - August 2024\n\n\n\nInvestigation of Bayesian optimisation for expensive-to-evaluate black box functions.\nApplication to computer simulations and physical experiments in engineering to find optimal active blowing strategies to maximise drag reduction.\nAward of a full studentship including stipend, tuition, research costs (equipment, publishing fees, conference fees, etc.), and travel and lodging costs for national and international conferences (approx. £89,000).\n\n\n\n\n\nPGDip in Computing\nNewcastle University\n\n\nNewcastle upon Tyne, United Kingdom\nSeptember 2020 - May 2021\n\n\n\n\n\n\nMSc in Statistics\nUniversity of Exeter\n\n\nExeter, United Kingdom\nSeptember 2019 - August 2020\n\n\n\nThesis: “Using Agent-based Modelling to Estimate Personal Exposure to PM2.5 in Devon”.\nDeveloped model was later used in the paper “A Data Integration Approach to Estimating Personal Exposures to Air Pollution”.\nAwards:\n\nDean’s Commedation: For performance at the top end of the First Class range.\nMSc Academic Award: For the best overall performance on a postgraduate Mathematics programme in 2020 (£100).\n\n\n\n\n\n\nBSc in Economics\nUniversity of Bonn\n\n\nBonn, Germany\nSeptember 2014 - February 2018\n\n\n\nThesis: “Universal basic income and its effects on the labour market in Germany”."
+    "text": "🎓 Education\n\n\nPhD in Computing\nNewcastle University\nAdvisors: Richard D. Whalley and Kevin Wilson\n\n\nNewcastle upon Tyne, United Kingdom\nJune 2021 - August 2024\n\n\n\nInvestigation of Bayesian optimisation for expensive-to-evaluate black-box functions.\nApplication to computer simulators and physical experiments in engineering to find optimal active blowing strategies to maximise drag reduction.\n\n\n\n\nPGDip in Computing\nNewcastle University\n\n\nNewcastle upon Tyne, United Kingdom\nSeptember 2020 - May 2021\n\n\n\n\n\n\nMSc in Statistics\nUniversity of Exeter\n\n\nExeter, United Kingdom\nSeptember 2019 - August 2020\n\n\n\nThesis: “Using Agent-based Modelling to Estimate Personal Exposure to PM2.5 in Devon”.\nDeveloped model was later used in the paper “A Data Integration Approach to Estimating Personal Exposures to Air Pollution”.\n\n\n\n\nBSc in Economics\nUniversity of Bonn\n\n\nBonn, Germany\nSeptember 2014 - February 2018\n\n\n\nThesis: “Universal basic income and its effects on the labour market in Germany”."
+  },
+  {
+    "objectID": "index.html#awards",
+    "href": "index.html#awards",
+    "title": "Mike Diessner",
+    "section": "🏆 Awards",
+    "text": "🏆 Awards\n\nThird Place at the Open Research Awards 2023 for making research more transparent, accessible and reproducible awarded by Newcastle University (£100).\nFull Four-Year Studentship to attend the Cloud Computing for Big Data Center for Doctoral Training awarded by the Engineering and Physical Sciences Research Council (approx. £89,000).\nMSc Academic Award for the best overall performance on a postgraduate Mathematics programme in 2020 awarded by the University of Exeter (£100).\nDean’s Commendation for the performance at the top end of the First Class range awarded by the University of Exeter."
   }
 ]
