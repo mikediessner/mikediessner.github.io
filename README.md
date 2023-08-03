@@ -31,7 +31,8 @@ website with Quarto see this [guide](https://quarto.org/docs/websites/).
 In the website section, update title with your name, i.e. "FirstName SirName".
 I chose to display the navigation bar (social media links, etc.) on the top
 right and let it feature links to my GitHub, Google Scholar, Twitter, LinkedIn, 
-and e-mail.
+and e-mail. Note: I removed Twitter but you can uncomment it and update to use
+it yourself.
 
 ## Step 4: Update ``index.qmd``
 
