@@ -30,7 +30,9 @@ Matthew L. Thomas, Gavin Shaddick, David Topping, Karyn Morrissey, Thomas J. Bra
 
 #### 2023
 
-**Open Research Awards 2023**, "*NUBO: An Open-Source AI Framework for Optimisation,*" Newcastle University, Newcastle upon Tyne, United Kingdom.
+**UK Fluids Conference**, "*A Machine Learning Framework for the Optimisation of Experiments and Simulations in Fluid Dynamics,*" Technology & Innovation Centre, Glasgow, Scotland.
+
+**Open Research Awards**, "*NUBO: An Open-Source AI Framework for Optimisation,*" Newcastle University, Newcastle upon Tyne, United Kingdom.
 
 #### 2022
 
@@ -118,7 +120,7 @@ September 2014 - February 2018
 
 ## :trophy: Awards
 
-- **Third Place at the Open Research Awards 2023** for making research more transparent, accessible and reproducible awarded by Newcastle University (£100).
+- **Third Place at the Open Research Awards 2023** for making research more transparent, accessible and reproducible awarded by Newcastle University (£150).
 
 - **Full Four-Year Studentship** to attend the Cloud Computing for Big Data Center for Doctoral Training awarded by the Engineering and Physical Sciences Research Council (approx. £89,000).
 
