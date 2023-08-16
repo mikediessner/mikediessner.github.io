@@ -28,9 +28,11 @@ Matthew L. Thomas, Gavin Shaddick, David Topping, Karyn Morrissey, Thomas J. Bra
 
 ## :earth_africa: Presentations
 
-#### 2023
+### Upcoming
 
-**UK Fluids Conference**, "*A Machine Learning Framework for the Optimisation of Experiments and Simulations in Fluid Dynamics,*" Technology & Innovation Centre, Glasgow, Scotland.
+**UK Fluids Conference**, "*A Machine Learning Framework for the Optimisation of Experiments and Simulations in Fluid Dynamics,*" Technology & Innovation Centre, Glasgow, Scotland. 17-19 October 2023.
+
+#### 2023
 
 **Open Research Awards**, "*NUBO: An Open-Source AI Framework for Optimisation,*" Newcastle University, Newcastle upon Tyne, United Kingdom.
 
@@ -120,9 +122,9 @@ September 2014 - February 2018
 
 ## :trophy: Awards
 
-- **Third Place at the Open Research Awards 2023** for making research more transparent, accessible and reproducible awarded by Newcastle University (£150).
+- **Third Place at the Open Research Awards 2023** for making research more transparent, accessible and reproducible awarded by Newcastle University (£100). I was the only student that was recognised among researchers, lecturers and professors.
 
-- **Full Four-Year Studentship** to attend the Cloud Computing for Big Data Center for Doctoral Training awarded by the Engineering and Physical Sciences Research Council (approx. £89,000).
+- **Full Four-Year Studentship** to attend the Cloud Computing for Big Data Center for Doctoral Training awarded by Newcastle University and the Engineering and Physical Sciences Research Council (over £100,000). Covers costs of living, tuition, equipment, workshops, travel, conferences and more.
 
 - **MSc Academic Award** for the best overall performance on a postgraduate Mathematics programme in 2020 awarded by the University of Exeter (£100).
 
