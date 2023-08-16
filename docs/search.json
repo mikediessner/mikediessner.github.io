@@ -17,15 +17,15 @@
     "objectID": "index.html#publications",
     "href": "index.html#publications",
     "title": "Mike Diessner",
-    "section": "📄 Publications",
-    "text": "📄 Publications\n\n2023\nMike Diessner, Kevin Wilson, and Richard D. Whalley. “NUBO: A Transparent Python Package for Bayesian Optimisation,” arXiv preprint arXiv:2305.06709, 2023.\nJoe O’Connor, Mike Diessner, Kevin Wilson, Richard D. Whalley, Andrew Wynn, and Sylvain Laizet. “Optimisation and Analysis of Streamwise-Varying Wall-Normal Blowing in a Turbulent Boundary Layer,” Flow, Turbulence and Combustion, 2023.\n\n\n2022\nMike Diessner, Joe O’Connor, Andrew Wynn, Sylvain Laizet, Yu Guan, Kevin Wilson, and Richard D. Whalley. “Investigating Bayesian optimization for expensive-to-evaluate black box functions: Application in fluid dynamics,” Frontiers in Applied Mathematics and Statistics, 2022.\nMatthew L. Thomas, Gavin Shaddick, David Topping, Karyn Morrissey, Thomas J. Brannan, Mike Diessner, Ruth C. E. Bowyer, Stefan Siegert, Hugh Coe, James Evans, Fernando Benitez-Paez, and James V. Zidek. “A Data Integration Approach to Estimating Personal Exposures to Air Pollution,” 2022 IEEE International Conference on Big Data (Big Data), 2022."
+    "section": "📰 Publications",
+    "text": "📰 Publications\n\n2023\nMike Diessner, Kevin Wilson, and Richard D. Whalley. “NUBO: A Transparent Python Package for Bayesian Optimisation,” arXiv preprint arXiv:2305.06709, 2023.\nJoe O’Connor, Mike Diessner, Kevin Wilson, Richard D. Whalley, Andrew Wynn, and Sylvain Laizet. “Optimisation and Analysis of Streamwise-Varying Wall-Normal Blowing in a Turbulent Boundary Layer,” Flow, Turbulence and Combustion, 2023.\n\n\n2022\nMike Diessner, Joe O’Connor, Andrew Wynn, Sylvain Laizet, Yu Guan, Kevin Wilson, and Richard D. Whalley. “Investigating Bayesian optimization for expensive-to-evaluate black box functions: Application in fluid dynamics,” Frontiers in Applied Mathematics and Statistics, 2022.\nMatthew L. Thomas, Gavin Shaddick, David Topping, Karyn Morrissey, Thomas J. Brannan, Mike Diessner, Ruth C. E. Bowyer, Stefan Siegert, Hugh Coe, James Evans, Fernando Benitez-Paez, and James V. Zidek. “A Data Integration Approach to Estimating Personal Exposures to Air Pollution,” 2022 IEEE International Conference on Big Data (Big Data), 2022."
   },
   {
     "objectID": "index.html#presentations",
     "href": "index.html#presentations",
     "title": "Mike Diessner",
     "section": "🌍 Presentations",
-    "text": "🌍 Presentations\n\nUpcoming\nUK Fluids Conference, “A Machine Learning Framework for the Optimisation of Experiments and Simulations in Fluid Dynamics,” Technology & Innovation Centre, Glasgow, Scotland. 17-19 October 2023.\n\n2023\nOpen Research Awards, “NUBO: An Open-Source AI Framework for Optimisation,” Newcastle University, Newcastle upon Tyne, United Kingdom.\n\n\n2022\nEuropean Drag Reduction and Flow Control Meeting, “On the development of a Bayesian optimisation framework for turbulent drag reduction,” Conservatoire National des Arts et Métiers, Paris, France."
+    "text": "🌍 Presentations\n\nUpcoming\nUK Fluids Conference, “A Machine Learning Framework for the Optimisation of Experiments and Simulations in Fluid Dynamics,” Technology & Innovation Centre, Glasgow, Scotland. 17-19 October 2023.\n\n\n2023\nOpen Research Awards, “NUBO: An Open-Source AI Framework for Optimisation,” Newcastle University, Newcastle upon Tyne, United Kingdom.\n\n\n2022\nEuropean Drag Reduction and Flow Control Meeting, “On the development of a Bayesian optimisation framework for turbulent drag reduction,” Conservatoire National des Arts et Métiers, Paris, France."
   },
   {
     "objectID": "index.html#software",
@@ -53,6 +53,13 @@
     "href": "index.html#awards",
     "title": "Mike Diessner",
     "section": "🏆 Awards",
-    "text": "🏆 Awards\n\nThird Place at the Open Research Awards 2023 for making research more transparent, accessible and reproducible awarded by Newcastle University (£100). I was the only student that was recognised among researchers, lecturers and professors.\nFull Four-Year Studentship to attend the Cloud Computing for Big Data Center for Doctoral Training awarded by Newcastle University and the Engineering and Physical Sciences Research Council (over £100,000). Covers costs of living, tuition, equipment, workshops, travel, conferences and more.\nMSc Academic Award for the best overall performance on a postgraduate Mathematics programme in 2020 awarded by the University of Exeter (£100).\nDean’s Commendation for the performance at the top end of the First Class range awarded by the University of Exeter."
+    "text": "🏆 Awards\n\nOpen Research Award for making research more transparent, accessible and reproducible. Awarded by Newcastle University at the Open Research Awards 2023 as the only student among researchers, lecturers and professors (£150).\nFull Four-Year Studentship to attend the Cloud Computing for Big Data Centre for Doctoral Training. Awarded by Newcastle University and the Engineering and Physical Sciences Research Council covering costs of living, tuition, equipment, workshops, travel, conferences and more (over £100,000).\nMSc Academic Award for the best overall performance on a postgraduate Mathematics programme. Awarded by the University of Exeter for the academic year 2019/20 (£100).\nDean’s Commendation for the performance at the top end of the First Class range. Awarded by the University of Exeter."
+  },
+  {
+    "objectID": "index.html#certificates",
+    "href": "index.html#certificates",
+    "title": "Mike Diessner",
+    "section": "⭐ Certificates",
+    "text": "⭐ Certificates\n\nAgilePM Foundation issued by APMG International in July 2023. Knowledge of the key principles and terminology within Agile Project Management and an understanding of the underpinning philosophy and principles of Agile, as well as the lifecycle, techniques and products of an Agile project."
   }
 ]
