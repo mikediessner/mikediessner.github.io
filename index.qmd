@@ -5,50 +5,84 @@ from: markdown+emoji
 ::: {layout-ncol=2}
 ![](profile.jpg)
 
-I am a third-year PhD student at the School of Computing at [Newcastle University](https://www.ncl.ac.uk) in the United Kingdom. Within the university, I am part of the [Cloud Computing for Big Data CDT](https://www.ncl.ac.uk/bigdata/) and the [Fluid Dynamics Lab](https://www.experimental-fluid-dynamics.com). \
+I am a third-year PhD student at the School of Computing at [Newcastle
+University](https://www.ncl.ac.uk) in the United Kingdom. Within the university,
+I am partof the [Cloud Computing for Big Data CDT](
+https://www.ncl.ac.uk/bigdata/) and the [Fluid Dynamics Lab](
+https://www.experimental-fluid-dynamics.com). \
 \
-My research focuses on **computer emulators** and the optimisation of physical experiments and computer simulators. I am also developing `NUBO`, a transparent **Bayesian optimisation** package in Python, with the aim of making the optimisation of expensive-to-evaluate black-box functions accessible to researchers from all disciplines. An open-source version is available [here](https://mikediessner.github.io/nubo).
+My research focuses on **computer emulators** and the optimisation of physical
+experiments and computer simulators. I am also developing `NUBO`, a transparent
+**Bayesian optimisation** package in Python, with the aim of making the
+optimisation of expensive-to-evaluate black-box functions accessible to
+researchers from all disciplines. An open-source version is available [here](
+https://mikediessner.github.io/nubo).
 :::
 
 
 ## :newspaper: Publications
 
 #### 2023
-
-**Mike Diessner**, Kevin Wilson, and Richard D. Whalley. "[NUBO: A Transparent Python Package for Bayesian Optimisation](https://arxiv.org/abs/2305.06709)," _arXiv preprint arXiv:2305.06709_, 2023.
-
-Joe O’Connor, **Mike Diessner**, Kevin Wilson, Richard D. Whalley, Andrew Wynn, and Sylvain Laizet. "[Optimisation and Analysis of Streamwise-Varying Wall-Normal Blowing in a Turbulent Boundary Layer](https://link.springer.com/article/10.1007/s10494-023-00408-3)," _Flow, Turbulence and Combustion_, 2023.
+**Mike Diessner**, Kevin Wilson, and Richard D. Whalley. "[NUBO: A Transparent
+Python Package for Bayesian Optimisation](https://arxiv.org/abs/2305.06709),"
+_arXiv preprint arXiv:2305.06709_, 2023. \
+\
+Joe O’Connor, **Mike Diessner**, Kevin Wilson, Richard D. Whalley, Andrew Wynn,
+and Sylvain Laizet. "[Optimisation and Analysis of Streamwise-Varying Wall-
+Normal Blowing in a Turbulent Boundary Layer](
+https://link.springer.com/article/10.1007/s10494-023-00408-3)," _Flow,
+Turbulence and Combustion_, 2023.
 
 #### 2022
-
-**Mike Diessner**, Joe O'Connor, Andrew Wynn, Sylvain Laizet, Yu Guan, Kevin Wilson, and Richard D. Whalley. "[Investigating Bayesian optimization for expensive-to-evaluate black box functions: Application in fluid dynamics](https://www.frontiersin.org/articles/10.3389/fams.2022.1076296/full)," _Frontiers in Applied Mathematics and Statistics_, 2022.
-
-Matthew L. Thomas, Gavin Shaddick, David Topping, Karyn Morrissey, Thomas J. Brannan, **Mike Diessner**, Ruth C. E. Bowyer, Stefan Siegert, Hugh Coe, James Evans, Fernando Benitez-Paez, and James V. Zidek. "[A Data Integration Approach to Estimating Personal Exposures to Air Pollution](https://ieeexplore.ieee.org/abstract/document/10020701)," _2022 IEEE International Conference on Big Data (Big Data)_, 2022.
+**Mike Diessner**, Joe O'Connor, Andrew Wynn, Sylvain Laizet, Yu Guan, Kevin
+Wilson, and Richard D. Whalley. "[Investigating Bayesian optimization for
+expensive-to-evaluate black box functions: Application in fluid dynamics](
+https://www.frontiersin.org/articles/10.3389/fams.2022.1076296/full),"
+_Frontiers in Applied Mathematics and Statistics_, 2022. \
+\
+Matthew L. Thomas, Gavin Shaddick, David Topping, Karyn Morrissey, Thomas J.
+Brannan, **Mike Diessner**, Ruth C. E. Bowyer, Stefan Siegert, Hugh Coe, James
+Evans, Fernando Benitez-Paez, and James V. Zidek. "[A Data Integration Approach
+to Estimating Personal Exposures to Air Pollution](
+https://ieeexplore.ieee.org/abstract/document/10020701)," _2022 IEEE
+International Conference on Big Data (Big Data)_, 2022.
 
 
 ## :earth_africa: Presentations
 
 #### Upcoming
-
-**UK Fluids Conference**, "*A Machine Learning Framework for the Optimisation of Experiments and Simulations in Fluid Dynamics,*" Technology & Innovation Centre, Glasgow, Scotland. 17-19 October 2023.
+**UK Fluids Conference**, "*A Machine Learning Framework for the Optimisation of
+Experiments and Simulations in Fluid Dynamics,*" Technology & Innovation Centre,
+Glasgow, United Kingdom. 17-19 October 2023. \
+\
+**APS Division of Fluid Dynamics**, "*Leveraging Bayesian Optimisation for
+Expensive Experiments and Simulations in Fluid Dynamics with Uncontrollable
+Dynamic Variables,*" Walter E. Washington Convention Center, Washington, DC,
+USA. 19-21 November 2023.
 
 #### 2023
-
-**Open Research Awards**, "*NUBO: An Open-Source AI Framework for Optimisation,*" Newcastle University, Newcastle upon Tyne, United Kingdom.
+**Open Research Awards**, "*NUBO: An Open-Source AI Framework for Optimisation,*
+" Newcastle University, Newcastle upon Tyne, United Kingdom.
 
 #### 2022
-
-**European Drag Reduction and Flow Control Meeting**, "*On the development of a Bayesian optimisation framework for turbulent drag reduction,*" Conservatoire National des Arts et Métiers, Paris, France.
+**European Drag Reduction and Flow Control Meeting**, "*On the development of a
+Bayesian optimisation framework for turbulent drag reduction,*" Conservatoire
+National des Arts et Métiers, Paris, France.
 
 
 ## :computer: Software
 
 - `NUBO`: Bayesian optimisation framework for solving expenisve-to-evaluate black-box functions (*Python*).  
-  [![Downloads](https://static.pepy.tech/personalized-badge/nubopy?period=total&units=none&left_color=grey&right_color=blue&left_text=Downloads&)](https://pepy.tech/project/nubopy) &nbsp;&nbsp; Website: [NUBO](https://mikediessner.github.io/nubo) &nbsp;&nbsp; Install: [PyPI](https://pypi.org/project/nubopy/) &nbsp;&nbsp; Source: [GitHub](https://github.com/mikediessner/nubo) 
-
+  [![Downloads](https://static.pepy.tech/personalized-badge/nubopy?period=total&units=none&left_color=grey&right_color=blue&left_text=Downloads&)](https://pepy.tech/project/nubopy)
+  &nbsp;&nbsp; Website: [NUBO](https://mikediessner.github.io/nubo)
+  &nbsp;&nbsp; Install: [PyPI](https://pypi.org/project/nubopy/)
+  &nbsp;&nbsp; Source: [GitHub](https://github.com/mikediessner/nubo) 
+\
 - `simplelhs`: Simple implementation of Latin hypercube sampling to generate space filling designs (*Python*).  
-  [![Downloads](https://static.pepy.tech/personalized-badge/simplelhs?period=total&units=none&left_color=grey&right_color=blue&left_text=Downloads&)](https://pepy.tech/project/simplelhs) &nbsp;&nbsp; Install: [PyPI](https://pypi.org/project/simplelhs/) &nbsp;&nbsp; Source: [GitHub](https://github.com/mikediessner/simplelhs) 
-
+  [![Downloads](https://static.pepy.tech/personalized-badge/simplelhs?period=total&units=none&left_color=grey&right_color=blue&left_text=Downloads&)](https://pepy.tech/project/simplelhs)
+  &nbsp;&nbsp; Install: [PyPI](https://pypi.org/project/simplelhs/)
+  &nbsp;&nbsp; Source: [GitHub](https://github.com/mikediessner/simplelhs) 
+\
 - `benchfuncs`: Selection of benchmark functions to test optimisation algorithms (*Python*).  
   Source: [GitHub](https://github.com/mikediessner/benchfuncs)
 
@@ -57,11 +91,15 @@ Matthew L. Thomas, Gavin Shaddick, David Topping, Karyn Morrissey, Thomas J. Bra
 
 I worked as a teaching assistant on the following courses:  
 
- - **Computing Foundations of Data Science**: Postgraduate-level module teaching the fundamentals of programming in *Python*.  
-
- - **Data Management and Exploratory Data Analysis**: Postgraduate-level module teaching students all necessary tools to analyse data with *R*.  
-
- - **Statistics for Empirical Psychology**: Undergraduate-level module teaching the fundamentals of statistics to psychology students (linear regression, mixed-effects model, hypothesis testing, etc.).  
+ - **Computing Foundations of Data Science**: Postgraduate-level module teaching
+ the fundamentals of programming in *Python*.
+\
+ - **Data Management and Exploratory Data Analysis**: Postgraduate-level module
+ teaching students all necessary tools to analyse data with *R*.
+\
+ - **Statistics for Empirical Psychology**: Undergraduate-level module teaching
+ the fundamentals of statistics to psychology students (linear regression,
+ mixed-effects model, hypothesis testing, etc.).
 
 
 ## :mortar_board: Education
@@ -70,15 +108,18 @@ I worked as a teaching assistant on the following courses:
 ::: {}
 **PhD in Computing**  
 [Newcastle University](https://www.ncl.ac.uk)  
-Advisors: [Richard D. Whalley](https://www.ncl.ac.uk/engineering/staff/profile/richardwhalley.html) and [Kevin Wilson](https://www.ncl.ac.uk/maths-physics/people/profile/kevinwilson.html)  
+Advisors: [Richard D. Whalley](https://www.ncl.ac.uk/engineering/staff/profile/richardwhalley.html) 
+and [Kevin Wilson](https://www.ncl.ac.uk/maths-physics/people/profile/kevinwilson.html)  
 :::
 ::: {.text-end}
 Newcastle upon Tyne, United Kingdom  
 June 2021 - August 2024  
 :::
 :::
-- Investigation of Bayesian optimisation for expensive-to-evaluate black-box functions.
-- Application to computer simulators and physical experiments in engineering to find optimal active blowing strategies to maximise drag reduction. 
+- Investigation of Bayesian optimisation for expensive-to-evaluate black-box
+functions.
+- Application to computer simulators and physical experiments in engineering to
+find optimal active blowing strategies to maximise drag reduction. 
 \
 
 ::: {.d-flex .justify-content-between}
@@ -91,7 +132,7 @@ Newcastle upon Tyne, United Kingdom
 September 2020 - May 2021  
 :::
 :::
-\
+
 
 ::: {.d-flex .justify-content-between}
 ::: {}
@@ -103,8 +144,11 @@ Exeter, United Kingdom
 September 2019 - August 2020  
 :::
 :::
-- Thesis: "*Using Agent-based Modelling to Estimate Personal Exposure to PM2.5 in Devon*".
-- Developed model was later used in the paper "[*A Data Integration Approach to Estimating Personal Exposures to Air Pollution*](https://ieeexplore.ieee.org/abstract/document/10020701)".
+- Thesis: "*Using Agent-based Modelling to Estimate Personal Exposure to PM2.5
+in Devon*".
+- Developed model was later used in the paper "[*A Data Integration Approach to
+Estimating Personal Exposures to Air Pollution*](
+https://ieeexplore.ieee.org/abstract/document/10020701)".
 \
 
 ::: {.d-flex .justify-content-between}
@@ -117,20 +161,32 @@ Bonn, Germany
 September 2014 - February 2018  
 :::
 :::
-- Thesis: "*Universal basic income and its effects on the labour market in Germany*".  
+- Thesis: "*Universal basic income and its effects on the labour market in
+Germany*".  
 
 
 ## :trophy: Awards
 
-- **Open Research Award** for making research more transparent, accessible and reproducible. Awarded by Newcastle University at the Open Research Awards 2023 as the only student among researchers, lecturers and professors (£150).
+- **Open Research Award** for making research more transparent, accessible and
+reproducible. Awarded by Newcastle University at the Open Research Awards 2023
+as the only student among researchers, lecturers and professors (£150).
 
-- **Full Four-Year Studentship** to attend the Cloud Computing for Big Data Centre for Doctoral Training. Awarded by Newcastle University and the Engineering and Physical Sciences Research Council covering costs of living, tuition, equipment, workshops, travel, conferences and more (over £100,000).
+- **Full Four-Year Studentship** to attend the Cloud Computing for Big Data
+Centre for Doctoral Training. Awarded by Newcastle University and the
+Engineering and Physical Sciences Research Council covering costs of living,
+tuition, equipment, workshops, travel, conferences and more (over £100,000).
 
-- **MSc Academic Award** for the best overall performance on a postgraduate Mathematics programme. Awarded by the University of Exeter for the academic year 2019/20 (£100).
+- **MSc Academic Award** for the best overall performance on a postgraduate
+Mathematics programme. Awarded by the University of Exeter for the academic
+year 2019/20 (£100).
 
-- **Dean's Commendation** for the performance at the top end of the First Class range. Awarded by the University of Exeter.
+- **Dean's Commendation** for the performance at the top end of the First Class
+range. Awarded by the University of Exeter.
 
 
 ## :star: Certificates
 
-- **AgilePM Foundation** issued by APMG International in July 2023. Knowledge of the key principles and terminology within Agile Project Management and an understanding of the underpinning philosophy and principles of Agile, as well as the lifecycle, techniques and products of an Agile project.
+- **AgilePM Foundation** issued by APMG International in July 2023. Knowledge of
+the key principles and terminology within Agile Project Management and an
+understanding of the underpinning philosophy and principles of Agile, as well as
+the lifecycle, techniques and products of an Agile project.
