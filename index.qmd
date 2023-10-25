@@ -51,17 +51,17 @@ International Conference on Big Data (Big Data)_, 2022.
 ## :earth_africa: Presentations
 
 #### Upcoming
-**UK Fluids Conference**, "*A Machine Learning Framework for the Optimisation of
-Experiments and Simulations in Fluid Dynamics,*" Technology & Innovation Centre,
-Glasgow, United Kingdom. 17-19 October 2023. \
-\
-**APS Division of Fluid Dynamics**, "*Leveraging Bayesian Optimisation for
+**76th Annual Meeting of the Division of Fluid Dynamics**, "*Leveraging Bayesian Optimisation for
 Expensive Experiments and Simulations in Fluid Dynamics with Uncontrollable
-Dynamic Variables,*" Walter E. Washington Convention Center, Washington, DC,
+Dynamic Variables,*" Walter E. Washington Convention Center, Washington (DC),
 USA. 19-21 November 2023.
 
 #### 2023
-**Open Research Awards**, "*NUBO: An Open-Source AI Framework for Optimisation,*
+**UK Fluids Conference 2023**, "*A Machine Learning Framework for the Optimisation of
+Experiments and Simulations in Fluid Dynamics,*" Technology & Innovation Centre,
+Glasgow, United Kingdom. 
+
+**Open Research Awards 2023**, "*NUBO: An Open-Source AI Framework for Optimisation,*
 " Newcastle University, Newcastle upon Tyne, United Kingdom.
 
 #### 2022
