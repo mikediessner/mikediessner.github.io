@@ -5,15 +5,12 @@ project:
 website:
   title: "Mike Diessner"
   favicon: favicon.png
-  twitter-card: true
   navbar:
     right:
       - icon: github
         href: https://github.com/mikediessner
       - icon: mortarboard-fill
         href: https://scholar.google.com/citations?user=qSIiHM4AAAAJ&hl=en
-      #- icon: twitter
-      #  href: https://twitter.com/mikediessner
       - icon: linkedin
         href: https://uk.linkedin.com/in/mikediessner
       - icon: envelope
@@ -23,6 +20,5 @@ format:
   html:
     theme: litera
     toc: true
-
-editor: visual
+    smooth-scroll: true
 
