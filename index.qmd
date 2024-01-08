@@ -50,6 +50,11 @@ International Conference on Big Data (Big Data)_, 2022.
 
 ## :earth_africa: Presentations
 
+#### Upcoming
+**13th International Symposium on Turbulence and Shear Flow Phenomena**,
+"*Optimising Active Flow Control Strategies for Random and Controlled Wind
+Speeds via Bayesian Optimisation,*" Centre Mont-Royal, Montréal, Canada.
+
 #### 2023
 **76th Annual Meeting of the Division of Fluid Dynamics**, "*Leveraging Bayesian
 Optimisation for Expensive Experiments and Simulations in Fluid Dynamics with
@@ -180,9 +185,11 @@ range. Awarded by the University of Exeter.
 
 ## :star: Certificates
 
-- ::: {.text-body}
-**AgilePM Foundation** issued by APMG International in July 2023. Knowledge of
+- **AgilePM Foundation** issued by APMG International in July 2023. Knowledge of
 the key principles and terminology within Agile Project Management and an
 understanding of the underpinning philosophy and principles of Agile, as well as
 the lifecycle, techniques and products of an Agile project.
-:::
+
+- **Professional Scrum Master 1** issued by Scrum.org in January 2024. Knowledge
+of the Scrum framework, the Scrum Master accountabilities and how to apply
+Scrum.
