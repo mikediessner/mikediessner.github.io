@@ -7,7 +7,7 @@ from: markdown+emoji
 
 I am a third-year PhD student at the School of Computing at [Newcastle
 University](https://www.ncl.ac.uk) in the United Kingdom. Within the university,
-I am partof the [Cloud Computing for Big Data CDT](
+I am part of the [Cloud Computing for Big Data CDT](
 https://www.ncl.ac.uk/bigdata/) and the [Fluid Dynamics Lab](
 https://www.experimental-fluid-dynamics.com).  
 \
@@ -22,19 +22,26 @@ https://mikediessner.github.io/nubo).
 
 ## :newspaper: Publications
 
-#### 2023
-**Mike Diessner**, Kevin Wilson, and Richard D. Whalley. "[NUBO: A Transparent
-Python Package for Bayesian Optimisation](https://arxiv.org/abs/2305.06709),"
-_arXiv preprint arXiv:2305.06709_, 2023. 
+#### 2024
+**Mike Diessner**, Kevin J. Wilson und Richard D. Whalley. "[On the development
+of a practical Bayesian optimisation algorithm for expensive experiments and
+simulations with changing environmental conditions](
+https://doi.org/10.48550/arXiv.2402.03006)," _arXiv preprint arXiv:2402.03006_,
+2024.
 
-Joe O’Connor, **Mike Diessner**, Kevin Wilson, Richard D. Whalley, Andrew Wynn,
-and Sylvain Laizet. "[Optimisation and Analysis of Streamwise-Varying Wall-
-Normal Blowing in a Turbulent Boundary Layer](
+#### 2023
+**Mike Diessner**, Kevin J. Wilson, and Richard D. Whalley. "[NUBO: A
+Transparent Python Package for Bayesian Optimisation](
+https://arxiv.org/abs/2305.06709)," _arXiv preprint arXiv:2305.06709_, 2023. 
+
+Joe O’Connor, **Mike Diessner**, Kevin J. Wilson, Richard D. Whalley, Andrew
+Wynn, and Sylvain Laizet. "[Optimisation and Analysis of Streamwise-Varying
+Wall-Normal Blowing in a Turbulent Boundary Layer](
 https://link.springer.com/article/10.1007/s10494-023-00408-3)," _Flow,
 Turbulence and Combustion_, 2023.
 
 #### 2022
-**Mike Diessner**, Joe O'Connor, Andrew Wynn, Sylvain Laizet, Yu Guan, Kevin
+**Mike Diessner**, Joe O'Connor, Andrew Wynn, Sylvain Laizet, Yu Guan, Kevin J.
 Wilson, and Richard D. Whalley. "[Investigating Bayesian optimization for
 expensive-to-evaluate black box functions: Application in fluid dynamics](
 https://www.frontiersin.org/articles/10.3389/fams.2022.1076296/full),"
