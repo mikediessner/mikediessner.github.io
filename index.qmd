@@ -5,7 +5,7 @@ from: markdown+emoji
 ::: {layout-ncol=2}
 ![](profile.jpg)
 
-I am a third-year PhD student at the School of Computing at [Newcastle
+I am a final-year PhD student at the School of Computing at [Newcastle
 University](https://www.ncl.ac.uk) in the United Kingdom. Within the university,
 I am part of the [Cloud Computing for Big Data CDT](
 https://www.ncl.ac.uk/bigdata/) and the [Fluid Dynamics Lab](
@@ -42,8 +42,8 @@ Turbulence and Combustion_, 2023.
 
 #### 2022
 **Mike Diessner**, Joe O'Connor, Andrew Wynn, Sylvain Laizet, Yu Guan, Kevin J.
-Wilson, and Richard D. Whalley. "[Investigating Bayesian optimization for
-expensive-to-evaluate black box functions: Application in fluid dynamics](
+Wilson, and Richard D. Whalley. "[Investigating Bayesian Optimization for
+Expensive-to-evaluate Black Box Functions: Application in Fluid Dynamics](
 https://www.frontiersin.org/articles/10.3389/fams.2022.1076296/full),"
 _Frontiers in Applied Mathematics and Statistics_, 2022. 
 
@@ -60,24 +60,25 @@ International Conference on Big Data (Big Data)_, 2022.
 #### Upcoming
 **13th International Symposium on Turbulence and Shear Flow Phenomena**,
 "*Optimising Active Flow Control Strategies for Random and Controlled Wind
-Speeds via Bayesian Optimisation,*" Centre Mont-Royal, Montréal, Canada.
+Speeds via Bayesian Optimisation,*" Centre Mont-Royal, Montréal, Canada. 23--28
+June 2024.
 
 #### 2023
 **76th Annual Meeting of the Division of Fluid Dynamics**, "*Leveraging Bayesian
 Optimisation for Expensive Experiments and Simulations in Fluid Dynamics with
 Uncontrollable Dynamic Variables,*" Walter E. Washington Convention Center,
-Washington (DC), USA. 19-21 November 2023.
+Washington (DC), USA.
 
 **UK Fluids Conference 2023**, "*A Machine Learning Framework for the
 Optimisation of Experiments and Simulations in Fluid Dynamics,*" Technology &
-Innovation Centre, Glasgow, United Kingdom. 
+Innovation Centre, Glasgow, Scotland. 
 
 **Open Research Awards 2023**, "*NUBO: An Open-Source AI Framework for
-Optimisation,*" Newcastle University, Newcastle upon Tyne, United Kingdom.
+Optimisation,*" Newcastle University, Newcastle upon Tyne, England.
 
 #### 2022
-**European Drag Reduction and Flow Control Meeting**, "*On the development of a
-Bayesian optimisation framework for turbulent drag reduction,*" Conservatoire
+**European Drag Reduction and Flow Control Meeting**, "*On the Development of a
+Bayesian Optimisation Framework for Turbulent Drag Reduction,*" Conservatoire
 National des Arts et Métiers, Paris, France.
 
 
@@ -112,7 +113,7 @@ and [Kevin J. Wilson](https://www.ncl.ac.uk/maths-physics/people/profile/kevinwi
 :::
 ::: {.text-end}
 Newcastle upon Tyne, United Kingdom  
-June 2021 - August 2024  
+Jun 2021--Aug 2024  
 :::
 :::
 - Investigation of Bayesian optimisation for expensive-to-evaluate black-box
@@ -128,7 +129,7 @@ find optimal active blowing strategies to maximise drag reduction.
 :::
 ::: {.text-end}
 Newcastle upon Tyne, United Kingdom  
-September 2020 - May 2021  
+Oct 2020--May 2021  
 :::
 ::::
 
@@ -140,7 +141,7 @@ September 2020 - May 2021
 :::
 ::: {.text-end}
 Exeter, United Kingdom  
-September 2019 - August 2020  
+Sep 2019--Jul 2020  
 :::
 ::::
 - Thesis: "*Using Agent-based Modelling to Estimate Personal Exposure to PM2.5 in Devon*".
@@ -153,7 +154,7 @@ September 2019 - August 2020
 :::
 ::: {.text-end}
 Bonn, Germany  
-September 2014 - February 2018  
+Oct 2014--Feb 2018  
 :::
 ::::
 - Thesis: "*Universal basic income and its effects on the labour market in Germany*".  
@@ -162,6 +163,9 @@ September 2014 - February 2018
 
 I worked as a teaching assistant on the following courses:  
 
+- **Data Analysis in Python**: Training course for professionals in industry
+covering programming in *Python* (pandas, numpy, matplotlib, scikit-learn, etc.)
+and statistics.
 - **Computing Foundations of Data Science**: Postgraduate-level module teaching
 the fundamentals of programming in *Python*.
 - **Data Management and Exploratory Data Analysis**: Postgraduate-level module
