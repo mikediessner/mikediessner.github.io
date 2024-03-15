@@ -112,7 +112,7 @@ and [Kevin J. Wilson](https://www.ncl.ac.uk/maths-physics/people/profile/kevinwi
 :::
 ::: {.text-end}
 Newcastle upon Tyne, United Kingdom  
-June 2021 - August 2024  
+Jun 2021 - Aug 2024  
 :::
 :::
 - Investigation of Bayesian optimisation for expensive-to-evaluate black-box
@@ -128,7 +128,7 @@ find optimal active blowing strategies to maximise drag reduction.
 :::
 ::: {.text-end}
 Newcastle upon Tyne, United Kingdom  
-September 2020 - May 2021  
+Sep 2020 - Aug 2021  
 :::
 ::::
 
@@ -140,7 +140,7 @@ September 2020 - May 2021
 :::
 ::: {.text-end}
 Exeter, United Kingdom  
-September 2019 - August 2020  
+Sep 2019 - Nov 2020  
 :::
 ::::
 - Thesis: "*Using Agent-based Modelling to Estimate Personal Exposure to PM2.5 in Devon*".
@@ -153,7 +153,7 @@ September 2019 - August 2020
 :::
 ::: {.text-end}
 Bonn, Germany  
-September 2014 - February 2018  
+Oct 2014 - Feb 2018  
 :::
 ::::
 - Thesis: "*Universal basic income and its effects on the labour market in Germany*".  
