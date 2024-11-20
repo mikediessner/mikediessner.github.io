@@ -5,16 +5,16 @@ from: markdown+emoji
 ::: {layout-ncol=2}
 ![](profile.jpg)
 
-I am a final-year PhD student at the School of Computing at [Newcastle
-University](https://www.ncl.ac.uk) in the United Kingdom. Within the university,
-I am part of the [Cloud Computing for Big Data CDT](
-https://www.ncl.ac.uk/bigdata/) and the [Fluid Dynamics Lab](
+I am a research scientist at the German Aerospace Center (DLR) and a final-year
+PhD candidate in Computing at [Newcastle University](https://www.ncl.ac.uk) in
+the United Kingdom. Within the university, I am part of the [Cloud Computing
+for Big Data CDT](https://www.ncl.ac.uk/bigdata/) and the [Fluid Dynamics Lab](
 https://www.experimental-fluid-dynamics.com).  
 \
-My research focuses on **computer emulators** and the optimisation of physical
-experiments and computer simulators. I am also developing `NUBO`, a transparent
-**Bayesian optimisation** package in Python, with the aim of making the
-optimisation of expensive-to-evaluate black-box functions accessible to
+My PhD research focuses on **computer emulators** and the optimisation of
+physical experiments and computer simulators. I am also developing `NUBO`, a
+transparent **Bayesian optimisation** package in Python, with the aim of making
+the optimisation of expensive-to-evaluate black-box functions accessible to
 researchers from all disciplines. An open-source version is available [here](
 https://mikediessner.github.io/nubo).
 :::
@@ -57,11 +57,10 @@ International Conference on Big Data (Big Data)_, 2022.
 
 ## :earth_africa: Presentations
 
-#### Upcoming
+#### 2024
 **13th International Symposium on Turbulence and Shear Flow Phenomena**,
 "*Optimising Active Flow Control Strategies for Random and Controlled Wind
-Speeds via Bayesian Optimisation,*" Centre Mont-Royal, Montréal, Canada. 23--28
-June 2024.
+Speeds via Bayesian Optimisation,*" Centre Mont-Royal, Montréal, Canada.
 
 #### 2023
 **76th Annual Meeting of the Division of Fluid Dynamics**, "*Leveraging Bayesian
