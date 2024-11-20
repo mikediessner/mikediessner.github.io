@@ -128,7 +128,7 @@ find optimal active blowing strategies to maximise drag reduction.
 :::
 ::: {.text-end}
 Newcastle upon Tyne, United Kingdom  
-Sep 2020--Aug 2021  
+Sep 2020--May 2021  
 :::
 ::::
 
@@ -140,7 +140,7 @@ Sep 2020--Aug 2021
 :::
 ::: {.text-end}
 Exeter, United Kingdom  
-Sep 2019--Nov 2020  
+Sep 2019--Aug 2020  
 :::
 ::::
 - Thesis: "*Using Agent-based Modelling to Estimate Personal Exposure to PM2.5 in Devon*".

@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "Mike Diessner",
     "section": "",
-    "text": "I am a final-year PhD student at the School of Computing at Newcastle University in the United Kingdom. Within the university, I am part of the Cloud Computing for Big Data CDT and the Fluid Dynamics Lab.\n\nMy research focuses on computer emulators and the optimisation of physical experiments and computer simulators. I am also developing NUBO, a transparent Bayesian optimisation package in Python, with the aim of making the optimisation of expensive-to-evaluate black-box functions accessible to researchers from all disciplines. An open-source version is available here."
+    "text": "I am a research scientist at the German Aerospace Center (DLR) and a final-year PhD candidate in Computing at Newcastle University in the United Kingdom. Within the university, I am part of the Cloud Computing for Big Data CDT and the Fluid Dynamics Lab.\n\nMy PhD research focuses on computer emulators and the optimisation of physical experiments and computer simulators. I am also developing NUBO, a transparent Bayesian optimisation package in Python, with the aim of making the optimisation of expensive-to-evaluate black-box functions accessible to researchers from all disciplines. An open-source version is available here."
   },
   {
     "objectID": "index.html#about",
     "href": "index.html#about",
     "title": "Mike Diessner",
     "section": "",
-    "text": "I am a final-year PhD student at the School of Computing at Newcastle University in the United Kingdom. Within the university, I am part of the Cloud Computing for Big Data CDT and the Fluid Dynamics Lab.\n\nMy research focuses on computer emulators and the optimisation of physical experiments and computer simulators. I am also developing NUBO, a transparent Bayesian optimisation package in Python, with the aim of making the optimisation of expensive-to-evaluate black-box functions accessible to researchers from all disciplines. An open-source version is available here."
+    "text": "I am a research scientist at the German Aerospace Center (DLR) and a final-year PhD candidate in Computing at Newcastle University in the United Kingdom. Within the university, I am part of the Cloud Computing for Big Data CDT and the Fluid Dynamics Lab.\n\nMy PhD research focuses on computer emulators and the optimisation of physical experiments and computer simulators. I am also developing NUBO, a transparent Bayesian optimisation package in Python, with the aim of making the optimisation of expensive-to-evaluate black-box functions accessible to researchers from all disciplines. An open-source version is available here."
   },
   {
     "objectID": "index.html#publications",
@@ -39,7 +39,7 @@
     "href": "index.html#education",
     "title": "Mike Diessner",
     "section": "🎓 Education",
-    "text": "🎓 Education\n\n\nPhD in Computing\nNewcastle University\nAdvisors: Richard D. Whalley and Kevin J. Wilson\n\n\nNewcastle upon Tyne, United Kingdom\nJun 2021–Aug 2024\n\n\n\nInvestigation of Bayesian optimisation for expensive-to-evaluate black-box functions.\nApplication to computer simulators and physical experiments in engineering to find optimal active blowing strategies to maximise drag reduction.\n\n\n\nPGDip in Computing\nNewcastle University\n\n\nNewcastle upon Tyne, United Kingdom\nSep 2020–Aug 2021\n\n\n\n\nMSc in Statistics\nUniversity of Exeter\n\n\nExeter, United Kingdom\nSep 2019–Nov 2020\n\n\n\nThesis: “Using Agent-based Modelling to Estimate Personal Exposure to PM2.5 in Devon”.\nDeveloped model was later used in the paper “A Data Integration Approach to Estimating Personal Exposures to Air Pollution”.\n\n\n\nBSc in Economics\nUniversity of Bonn\n\n\nBonn, Germany\nOct 2014–Feb 2018\n\n\n\nThesis: “Universal basic income and its effects on the labour market in Germany”."
+    "text": "🎓 Education\n\n\nPhD in Computing\nNewcastle University\nAdvisors: Richard D. Whalley and Kevin J. Wilson\n\n\nNewcastle upon Tyne, United Kingdom\nJun 2021–Aug 2024\n\n\n\nInvestigation of Bayesian optimisation for expensive-to-evaluate black-box functions.\nApplication to computer simulators and physical experiments in engineering to find optimal active blowing strategies to maximise drag reduction.\n\n\n\nPGDip in Computing\nNewcastle University\n\n\nNewcastle upon Tyne, United Kingdom\nSep 2020–May 2021\n\n\n\n\nMSc in Statistics\nUniversity of Exeter\n\n\nExeter, United Kingdom\nSep 2019–Aug 2020\n\n\n\nThesis: “Using Agent-based Modelling to Estimate Personal Exposure to PM2.5 in Devon”.\nDeveloped model was later used in the paper “A Data Integration Approach to Estimating Personal Exposures to Air Pollution”.\n\n\n\nBSc in Economics\nUniversity of Bonn\n\n\nBonn, Germany\nOct 2014–Feb 2018\n\n\n\nThesis: “Universal basic income and its effects on the labour market in Germany”."
   },
   {
     "objectID": "index.html#teaching",
