@@ -24,10 +24,9 @@ https://mikediessner.github.io/nubo).
 
 #### 2024
 **Mike Diessner**, Kevin J. Wilson und Richard D. Whalley. "[On the development
-of a practical Bayesian optimisation algorithm for expensive experiments and
+of a practical Bayesian optimization algorithm for expensive experiments and
 simulations with changing environmental conditions](
-https://doi.org/10.48550/arXiv.2402.03006)," _arXiv preprint arXiv:2402.03006_,
-2024.
+https://doi.org/10.1017/dce.2024.40)," _Data-Centric Engineering_, 2024.
 
 #### 2023
 **Mike Diessner**, Kevin J. Wilson, and Richard D. Whalley. "[NUBO: A
