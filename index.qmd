@@ -5,14 +5,12 @@ from: markdown+emoji
 ::: {layout-ncol=2}
 ![](profile.jpg)
 
-I am a research scientist at the German Aerospace Center (DLR) and a final-year
-PhD candidate in Computing at [Newcastle University](https://www.ncl.ac.uk) in
-the United Kingdom. Within the university, I am part of the [Cloud Computing
-for Big Data CDT](https://www.ncl.ac.uk/bigdata/) and the [Fluid Dynamics Lab](
-https://www.experimental-fluid-dynamics.com).  
+I am a research scientist at the German Aerospace Center (DLR) and obtained my
+PhD from the School of Computing at [Newcastle University](https://www.ncl.ac.uk)
+in the United Kingdom.  
 \
-My PhD research focuses on **computer emulators** and the optimisation of
-physical experiments and computer simulators. I am also developing `NUBO`, a
+My PhD research focused on **computer emulators** and the optimisation of
+physical experiments and computer simulators. I also developed `NUBO`, a
 transparent **Bayesian optimisation** package in Python, with the aim of making
 the optimisation of expensive-to-evaluate black-box functions accessible to
 researchers from all disciplines. An open-source version is available [here](
@@ -177,16 +175,16 @@ mixed-effects model, hypothesis testing, etc.).
 
 - **Open Research Award** for making research more transparent, accessible and
 reproducible. Awarded by Newcastle University at the Open Research Awards 2023
-as the only student among researchers, lecturers and professors (£150).
+as the only student among researchers, lecturers and professors.
 
 - **Full Four-Year Studentship** to attend the Cloud Computing for Big Data
 Centre for Doctoral Training. Awarded by Newcastle University and the
 Engineering and Physical Sciences Research Council covering costs of living,
-tuition, equipment, workshops, travel, conferences and more (over £100,000).
+tuition, equipment, workshops, travel, conferences and more.
 
 - **MSc Academic Award** for the best overall performance on a postgraduate
 Mathematics programme. Awarded by the University of Exeter for the academic
-year 2019/20 (£100).
+year 2019/20.
 
 - **Dean's Commendation** for the performance at the top end of the First Class
 range. Awarded by the University of Exeter.
